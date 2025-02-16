@@ -56,9 +56,8 @@
 ---
 
 ### 📫 Connect with Me
-- 🌐 [Website / Portfolio](#)
-- 🔗 [LinkedIn](#)
-- ✉️ Reach me at **your.email@example.com**  
+- 📷 Instagram: [@_11michael](https://www.instagram.com/_11michael)  
+- ✉️ Reach me at **michael.ekeng990@gmail.com**  
 
 ---
 
