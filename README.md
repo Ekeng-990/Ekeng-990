@@ -8,7 +8,10 @@
 ### 🚀 About Me
 - 🖥️ **Fullstack Developer**, building secure and scalable applications  
 - ⚡ Exploring **Web3, Smart Contracts & Blockchain Development**  
-- 📌 Passionate about **technology & innovation**  
+- 📌 Passionate about **technology, open-source, and continuous learning**  
+- 🏆 Always striving to write **clean, efficient, and maintainable code**  
+
+💡 *"Great software is built with passion, not just code."*  
 
 ---
 
@@ -40,15 +43,15 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer&theme=tokyonight" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="150">
 </p>
 
 ---
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucifer&theme=tokyonight&hide_border=true">
-</p>
+### 🌱 Current Focus
+🔥 Building **Web3 projects** with smart contracts  
+🚀 Exploring **scalable fullstack applications**  
+📚 Learning **new technologies & contributing to open-source**  
 
 ---
 
@@ -59,4 +62,4 @@
 
 ---
 
-⚡ *"Build smart, code with passion, and never stop learning."*  
+✨ *"Code is more than logic; it's an art."*  
