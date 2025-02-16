@@ -48,6 +48,13 @@
 
 ---
 
+### 🔥 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekeng-990&layout=compact&theme=tokyonight">
+</p>
+
+---
+
 ### 🌱 Current Focus
 🔥 Building **Web3 projects** with smart contracts  
 🚀 Exploring **scalable fullstack applications**  
