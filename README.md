@@ -1,15 +1,14 @@
 <h1 align="center">Hi, I'm Michael 👋</h1>
 <p align="center">
-  <b>Fullstack Developer | Ethical Hacker | Web3 Enthusiast | Gamer</b>
+  <b>Fullstack Developer | Web3 Enthusiast</b>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔥 Passionate about **Cybersecurity & Ethical Hacking**  
 - 🖥️ **Fullstack Developer**, building secure and scalable applications  
-- ⚡ Exploring **Web3, Smart Contracts & Blockchain Security**  
-- 🎮 Gamer & FPS enthusiast (Valorant, Point Blank, VRChat)  
+- ⚡ Exploring **Web3, Smart Contracts & Blockchain Development**  
+- 📌 Passionate about **technology & innovation**  
 
 ---
 
@@ -30,18 +29,25 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### **🔐 Cybersecurity & Hacking**
+#### **⚡ Tools & OS**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-387EF5?style=for-the-badge&logo=metasploit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer&theme=tokyonight" height="150">
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucifer&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -49,9 +55,8 @@
 ### 📫 Connect with Me
 - 🌐 [Website / Portfolio](#)
 - 🔗 [LinkedIn](#)
-- 🎮 [Twitch](https://www.twitch.tv/yourusername)  
 - ✉️ Reach me at **your.email@example.com**  
 
 ---
 
-⚡ *"Hack the planet, build smart, and code with passion."*  
+⚡ *"Build smart, code with passion, and never stop learning."*  
